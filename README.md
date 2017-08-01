@@ -16,11 +16,7 @@ npm install 或者cnpm install
 
 2、运行demo。
    ```
-    mac
-    npm run start-mac
-
-    windows
-    npm run start-win
+   npm start
    ```
 
 3、将会开启3011端口.
